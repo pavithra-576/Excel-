@@ -49,18 +49,6 @@ This repository contains my Microsoft Excel learning materials, practice exercis
 * Slicers
 * Interactive Reports
 
-## 📂 Repository Structure
-
-```text
-Excel-Learning/
-│
-├── Practice Files/
-├── Datasets/
-├── Dashboard Exercises/
-├── Notes/
-└── README.md
-```
-
 ## 🚀 Progress
 
 * [ ] Excel Basics
